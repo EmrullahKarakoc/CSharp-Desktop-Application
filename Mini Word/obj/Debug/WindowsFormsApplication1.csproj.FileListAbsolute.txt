@@ -1,0 +1,37 @@
+c:\users\emrullah\documents\visual studio 2015\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\emrullah\documents\visual studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\emrullah\documents\visual studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\emrullah\documents\visual studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\emrullah\documents\visual studio 2015\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\emrullah\documents\visual studio 2015\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\emrullah\documents\visual studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\emrullah\documents\visual studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\Mini Word\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\Mini Word\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\Mini Word\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\Mini Word\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\Mini Word\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\Mini Word\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\Mini Word\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\Mini Word\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\Mini Word\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\C#\Mini Word\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\C#\Mini Word\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\C#\Mini Word\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\C#\Mini Word\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\C#\Mini Word\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\C#\Mini Word\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\C#\Mini Word\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\C#\Mini Word\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\C#\Mini Word\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\karak\Documents\Visual Studio 2019\Projects\C#\Mini Word\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\karak\Documents\Visual Studio 2019\Projects\C#\Mini Word\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\karak\Documents\Visual Studio 2019\Projects\C#\Mini Word\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\karak\Documents\Visual Studio 2019\Projects\C#\Mini Word\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\karak\Documents\Visual Studio 2019\Projects\C#\Mini Word\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\karak\Documents\Visual Studio 2019\Projects\C#\Mini Word\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\karak\Documents\Visual Studio 2019\Projects\C#\Mini Word\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\karak\Documents\Visual Studio 2019\Projects\C#\Mini Word\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\karak\Documents\Visual Studio 2019\Projects\C#\Mini Word\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\karak\Documents\Visual Studio 2019\Projects\C#\Mini Word\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache

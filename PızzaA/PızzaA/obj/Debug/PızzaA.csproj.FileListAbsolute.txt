@@ -1,0 +1,10 @@
+C:\Users\karak\Documents\Visual Studio 2019\Projects\PızzaA\PızzaA\bin\Debug\PızzaA.exe.config
+C:\Users\karak\Documents\Visual Studio 2019\Projects\PızzaA\PızzaA\bin\Debug\PızzaA.exe
+C:\Users\karak\Documents\Visual Studio 2019\Projects\PızzaA\PızzaA\bin\Debug\PızzaA.pdb
+C:\Users\karak\Documents\Visual Studio 2019\Projects\PızzaA\PızzaA\obj\Debug\PızzaA.Form1.resources
+C:\Users\karak\Documents\Visual Studio 2019\Projects\PızzaA\PızzaA\obj\Debug\PızzaA.Properties.Resources.resources
+C:\Users\karak\Documents\Visual Studio 2019\Projects\PızzaA\PızzaA\obj\Debug\PızzaA.csproj.GenerateResource.cache
+C:\Users\karak\Documents\Visual Studio 2019\Projects\PızzaA\PızzaA\obj\Debug\PızzaA.csproj.CoreCompileInputs.cache
+C:\Users\karak\Documents\Visual Studio 2019\Projects\PızzaA\PızzaA\obj\Debug\PızzaA.exe
+C:\Users\karak\Documents\Visual Studio 2019\Projects\PızzaA\PızzaA\obj\Debug\PızzaA.pdb
+C:\Users\karak\Documents\Visual Studio 2019\Projects\PızzaA\PızzaA\obj\Debug\PızzaA.csprojAssemblyReference.cache

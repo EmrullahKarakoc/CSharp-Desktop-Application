@@ -1,0 +1,36 @@
+C:\Users\karak\Documents\Visual Studio 2019\Projects\VeriTabaniBaglantisi\VeriTabaniBaglantisi\bin\Debug\VeriTabaniBaglantisi.exe.config
+C:\Users\karak\Documents\Visual Studio 2019\Projects\VeriTabaniBaglantisi\VeriTabaniBaglantisi\bin\Debug\VeriTabaniBaglantisi.exe
+C:\Users\karak\Documents\Visual Studio 2019\Projects\VeriTabaniBaglantisi\VeriTabaniBaglantisi\bin\Debug\VeriTabaniBaglantisi.pdb
+C:\Users\karak\Documents\Visual Studio 2019\Projects\VeriTabaniBaglantisi\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Form1.resources
+C:\Users\karak\Documents\Visual Studio 2019\Projects\VeriTabaniBaglantisi\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Properties.Resources.resources
+C:\Users\karak\Documents\Visual Studio 2019\Projects\VeriTabaniBaglantisi\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.csproj.GenerateResource.cache
+C:\Users\karak\Documents\Visual Studio 2019\Projects\VeriTabaniBaglantisi\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.csproj.CoreCompileInputs.cache
+C:\Users\karak\Documents\Visual Studio 2019\Projects\VeriTabaniBaglantisi\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.exe
+C:\Users\karak\Documents\Visual Studio 2019\Projects\VeriTabaniBaglantisi\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.pdb
+C:\Users\karak\Documents\Visual Studio 2019\Projects\VeriTabaniBaglantisi\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Form2.resources
+C:\Users\karak\Documents\Visual Studio 2019\Projects\VeriTabaniBaglantisi\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Control_KullaniciEkle.resources
+C:\Users\karak\Documents\Visual Studio 2019\Projects\VeriTabaniBaglantisi\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Control_KullaniciSil.resources
+C:\Users\karak\Documents\Visual Studio 2019\Projects\VeriTabaniBaglantisi\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Control_MusteriEkle.resources
+C:\Users\karak\Documents\Visual Studio 2019\Projects\VeriTabaniBaglantisi\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Control_MusteriListele.resources
+C:\Users\karak\Documents\Visual Studio 2019\Projects\VeriTabaniBaglantisi\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Control_MusteriSil.resources
+C:\Users\karak\Documents\Visual Studio 2019\Projects\VeriTabaniBaglantisi\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Control_UrunEkle.resources
+C:\Users\karak\Documents\Visual Studio 2019\Projects\VeriTabaniBaglantisi\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Control_UrunSil.resources
+C:\Users\karak\Documents\Visual Studio 2019\Projects\VeriTabaniBaglantisi\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.csprojAssemblyReference.cache
+E:\Desktop\Yeni klasör\C# Desktop Application\Stock Program\VeriTabaniBaglantisi\bin\Debug\VeriTabaniBaglantisi.exe.config
+E:\Desktop\Yeni klasör\C# Desktop Application\Stock Program\VeriTabaniBaglantisi\bin\Debug\VeriTabaniBaglantisi.exe
+E:\Desktop\Yeni klasör\C# Desktop Application\Stock Program\VeriTabaniBaglantisi\bin\Debug\VeriTabaniBaglantisi.pdb
+E:\Desktop\Yeni klasör\C# Desktop Application\Stock Program\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.csprojAssemblyReference.cache
+E:\Desktop\Yeni klasör\C# Desktop Application\Stock Program\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Control_KullaniciEkle.resources
+E:\Desktop\Yeni klasör\C# Desktop Application\Stock Program\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Control_KullaniciSil.resources
+E:\Desktop\Yeni klasör\C# Desktop Application\Stock Program\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Control_MusteriEkle.resources
+E:\Desktop\Yeni klasör\C# Desktop Application\Stock Program\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Control_MusteriListele.resources
+E:\Desktop\Yeni klasör\C# Desktop Application\Stock Program\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Control_MusteriSil.resources
+E:\Desktop\Yeni klasör\C# Desktop Application\Stock Program\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Control_UrunEkle.resources
+E:\Desktop\Yeni klasör\C# Desktop Application\Stock Program\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Control_UrunSil.resources
+E:\Desktop\Yeni klasör\C# Desktop Application\Stock Program\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Form1.resources
+E:\Desktop\Yeni klasör\C# Desktop Application\Stock Program\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Form2.resources
+E:\Desktop\Yeni klasör\C# Desktop Application\Stock Program\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.Properties.Resources.resources
+E:\Desktop\Yeni klasör\C# Desktop Application\Stock Program\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.csproj.GenerateResource.cache
+E:\Desktop\Yeni klasör\C# Desktop Application\Stock Program\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.csproj.CoreCompileInputs.cache
+E:\Desktop\Yeni klasör\C# Desktop Application\Stock Program\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.exe
+E:\Desktop\Yeni klasör\C# Desktop Application\Stock Program\VeriTabaniBaglantisi\obj\Debug\VeriTabaniBaglantisi.pdb
